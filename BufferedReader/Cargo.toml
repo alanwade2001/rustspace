@@ -1,5 +1,5 @@
 [package]
-name = "bufreader"
+name = "bufferedreader"
 version = "0.1.0"
 authors = ["alanwade2001 <alanwade2001@yahoo.com>"]
 edition = "2018"

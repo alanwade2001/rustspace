@@ -1,0 +1,2 @@
+# rustspace
+for rust modules
